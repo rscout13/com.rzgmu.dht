@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fragtest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_1">Hello blank fragment 1</string>
+    <string name="hello_blank_fragment_2">Hello blank fragment 2</string>
+    <string name="hello_blank_fragment_3">Hello blank fragment 3</string>
+    <string name="hello_blank_fragment_4">Hello blank fragment 4</string>
+    <string name="hello_blank_fragment_5">Hello blank fragment 5</string>
+    <string name="hello_blank_fragment_6">Hello blank fragment 6</string>
+    <string name="hello_blank_fragment_7">Hello blank fragment 7</string>
+</resources>
