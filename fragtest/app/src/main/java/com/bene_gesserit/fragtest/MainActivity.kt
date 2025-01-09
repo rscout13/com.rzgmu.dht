@@ -56,6 +56,7 @@ class MainActivity : AppCompatActivity() {
         supportFragmentManager
             .beginTransaction()
             .replace(idHolder, fragment)
+            .addToBackStack(null)
             .commit()
     }
 
